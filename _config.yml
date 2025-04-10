@@ -1,6 +1,6 @@
-title: Andi Putra
+title: Sample
 #description: >- # your tagline
   Product Designer · Data Engineer · Portfolio & Projects
 #baseurl: "" # biarkan kosong jika pakai username.github.io
 #url: "https://username.github.io"
-theme: vonge-jekyll-bookshop-template
+theme: automatic-app-landing-page
